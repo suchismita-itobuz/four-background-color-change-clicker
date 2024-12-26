@@ -1,0 +1,41 @@
+.box {
+  height: 100vh;
+}
+
+.aqua {
+  background-color: aqua !important;
+  border: none !important;
+}
+
+.aqua:hover {
+  background-color: rgb(1, 186, 186) !important;
+}
+
+.lightblue {
+  background-color: lightblue !important;
+  border: none !important;
+}
+
+.lightblue:hover {
+  background-color: rgb(127, 201, 225) !important;
+}
+
+.coralred {
+  background-color: coral !important;
+  border: none !important;
+}
+
+.coralred:hover {
+  background-color: rgb(250, 98, 43) !important;
+}
+
+.lightgrey {
+  background-color: lightgrey !important;
+  border: none !important;
+}
+
+.lightgrey:hover {
+  background-color: rgb(147, 145, 145) !important;
+}
+
+/*# sourceMappingURL=style.css.map */
